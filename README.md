@@ -44,34 +44,30 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 ## Schematic Diagram
 
 ### Schematicand Symbol of 2-Input AND Gate:
+<img width="1919" height="1190" alt="553301136-8d466eac-01d1-4b7e-8713-f6a7f3c815a8" src="https://github.com/user-attachments/assets/4f082747-0f66-41a4-aba4-7d4c15c227b5" />
+<img width="1916" height="1199" alt="553301180-7f292389-529a-4a47-ba55-cf60a5ae5a7e" src="https://github.com/user-attachments/assets/21f2772f-c7cd-4d2b-bc86-d3f0f65fe30c" />
 
-![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
 
-![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
+<img width="1919" height="1199" alt="553301289-6fa05ad3-ff53-4b74-98dc-78c29e581455" src="https://github.com/user-attachments/assets/7385aeb0-aaa1-44a3-99c3-73818d554b12" />
+<img width="1919" height="1199" alt="553301265-4a88d9dd-c65f-49a7-b9b6-c5832a4a32ca" src="https://github.com/user-attachments/assets/0095bfb3-36a8-4b86-974e-3d0e03f3ddbd" />
 
-![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
-
-![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
 
 ### Schematicand Symbol of Half Adder:
-![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
+<img width="1918" height="1199" alt="555152280-d83a0f86-146d-4a5a-929f-a55997e9fab7" src="https://github.com/user-attachments/assets/a949f907-a2a7-4547-bac0-1d61117be788" />
+<img width="1919" height="1199" alt="555152413-21c68bb2-7c2f-460b-a4e6-08c7aa267961" src="https://github.com/user-attachments/assets/9517f423-2922-4537-ac89-fd24c5404289" />
 
-![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
 
 ### Schematic of 2-Bit Multiplier:
-![Screenshot 2025-05-10 162446](https://github.com/user-attachments/assets/5b4b78a1-5812-4789-85ec-60324c2b5968)
+<img width="1919" height="1199" alt="555152536-5fd78189-5dfe-4c26-9e74-08aaa3d7b618" src="https://github.com/user-attachments/assets/82bc864c-4c3f-4aae-bc42-f0bf09204ba6" />
 
 ## Output
 ### Transient Analysis Output:
-![Screenshot 2025-05-15 153033](https://github.com/user-attachments/assets/2c94f184-525c-49ba-8733-27c982f0dffa)
+<img width="866" height="698" alt="555152850-eccf0346-b605-4cef-90ef-639755e3eead" src="https://github.com/user-attachments/assets/111c0b9a-b4a4-4de5-b8a1-69dfdb42f5c8" />
+<img width="966" height="236" alt="444249229-55864d90-af08-4836-bc90-4cbba80573f8" src="https://github.com/user-attachments/assets/c3473cba-ec64-4b14-8ade-ad1fa29a0c6d" />
 
-![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
-
-
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
-
+<img width="1918" height="1199" alt="555153056-cad2be82-a611-41bc-9966-913f21b79c8f" src="https://github.com/user-attachments/assets/59b4e8d6-9e18-4afe-931b-2eee5215cfb0" />
 Run Time : 200ns
 
 ## Results
